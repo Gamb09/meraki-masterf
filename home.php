@@ -83,7 +83,7 @@
                                             <a href="#patrocinadores" class="c-link">Patrocinadores</a>
                                         </li>
                                         <li class="c-onepage-link ">
-                                            <a target="_blank" href="revista/contenidos/edicion1/index.html" class="c-link">Revista</a>
+                                            <a target="_blank" href="revista.php" class="c-link">Revista</a>
                                         </li>
                                         <li class="c-onepage-link ">
                                             <a href="blog.php" class="c-link">Blog</a>

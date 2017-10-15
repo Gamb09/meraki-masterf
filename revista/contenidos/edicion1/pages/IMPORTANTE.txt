@@ -1,0 +1,3 @@
+Esta revista es de 12 paginas
+se utilizan 3 tipos de imagenes 2 escenciales para el zoom 
+La resolucion debe ser mayor a 1000px
